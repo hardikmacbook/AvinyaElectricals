@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+
+*{
+    font-size: 18px;
+    background-color: var(--backgroundColor);
+}
+
+
+:root{
+    --backgroundColor : #ebe2e2;
+    --navlinksColor: #000;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 0 10px;
+    justify-content: center;
+    width: 100%;
+    max-width: 1300px;
+}
