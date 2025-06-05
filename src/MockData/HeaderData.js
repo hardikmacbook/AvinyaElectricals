@@ -1,13 +1,13 @@
 export const NavbarMenu = [
     {
         id:1,
-        title: "Home",
+        title: "home",
         link: "/"
     },
 
     {
         id:2,
-        title: "About",
+        title: "about",
         link: "/about"
     },
 
